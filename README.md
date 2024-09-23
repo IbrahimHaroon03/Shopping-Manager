@@ -6,14 +6,14 @@ As part this modules coursework I was tasked in creating a shopping manager prog
 ### Functions
 The program had seperate frunctions for the manager and customer.
 
-####Manager console menu functions:
+#### Manager console menu functions:
 1. Add a new product
 2. Delete a product
 3. Print a list of all products
 4. Write product list to a text file
 5. Read text file
 
-####Customer GUI Functions:
+#### Customer GUI Functions:
 1. Select type of product 
 2. View list of products 
 3. Add to shopping cart
