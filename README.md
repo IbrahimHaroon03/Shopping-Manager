@@ -5,6 +5,7 @@ As part this modules coursework I was tasked in creating a shopping manager prog
 
 ### Functions
 The program had seperate frunctions for the manager and customer.
+
 Manager console menu functions:
 1. Add a new product
 2. Delete a product
