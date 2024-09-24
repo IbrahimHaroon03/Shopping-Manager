@@ -34,5 +34,7 @@ The program had seperate frunctions for the manager and customer.
 4. <i>Encapsulation: Getters & Setters</i>
 - Here getters and setters where used to either retrive specific attributes from a product or to either set a new value to an existing product
 5. <i>GUI: AWT & Swing</i>
-- With the use of JFrames, JTables and JPanels the user could interact with the system on a GUI
+- With the use of JFrames, JTables and JPanels the user could interact with the system on a GUI.
+6. <i>Input Validation</i>
+- Using do while loops and functions such as '.hasnextint' to insure the user can only input integers within a range.
 
