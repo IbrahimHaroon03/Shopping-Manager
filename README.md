@@ -1,12 +1,12 @@
 # Object Oriented Progamming Module Coursework : Shopping Manager
 
-### About
-As part this modules coursework I was tasked in creating a shopping manager program using a console system for the "manager" and a GUI for the "customer". This was coded on Apache Netbeans 18 as per the university's coursework specification.
-
 ### Table of Contents
 - [About](#About)
 - [Functions](#Functions)
 - [Concepts I learnt & how they were used](#Concepts-I-learnt-&-how-they-were-used)
+  
+### About
+As part this modules coursework I was tasked in creating a shopping manager program using a console system for the "manager" and a GUI for the "customer". This was coded on Apache Netbeans 18 as per the university's coursework specification.
 
 ### Functions
 The program had seperate frunctions for the manager and customer.
