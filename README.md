@@ -6,7 +6,7 @@ As part this modules coursework I was tasked in creating a shopping manager prog
 ### Table of Contents
 - [About](#About)
 - [Functions](#Functions)
-- [Concepts I learnt & how they were used](#Concepts-I-learnt-&-how-they-were-used)
+- [Concepts I Learnt & How They Were Used](#Concepts-I-learnt-&-how-they-were-used)
 - [Example Images](#Example-Images)
 
 ### Functions
