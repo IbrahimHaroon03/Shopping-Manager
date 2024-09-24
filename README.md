@@ -24,7 +24,7 @@ The program had seperate frunctions for the manager and customer.
 3. Add to shopping cart
 4. View only selected product details
 
-### Concepts I learnt & how they were used
+### Concepts I Learnt & How They Were Used
 1. <i>Inheritance:</i>
 - A super class called 'Product' had the attributes shared across the subclass 'Electronincs' and 'Clothing. This allowed the subclass to have their own unique attributes alongside the attributes they must have. For example, 'Product' has attributes price, productID etc and Clothing has size and color as additional attributes.
 2. <i>Interfaces:</i>
