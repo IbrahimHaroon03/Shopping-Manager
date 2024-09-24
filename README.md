@@ -18,3 +18,16 @@ The program had seperate frunctions for the manager and customer.
 2. View list of products 
 3. Add to shopping cart
 4. View only selected product details
+
+### Concepts I learnt & how they were used
+1. <i>Inheritance:</i>
+- A super class called 'Product' had the attributes shared across the subclass 'Electronincs' and 'Clothing. This allowed the subclass to have their own unique attributes alongside the attributes they must have. For example, 'Product' has attributes price, productID etc and Clothing has size and color as additional attributes.
+2. <i>Interfaces:</i>
+- The abstact class is 'ShoppingManager' which contains all the abstract method   declarations and the body for these methods are provided in the subclass 'WestminsterShoppingManager'.
+3. <i>Constructors</i>
+- Constructors were used to initialise a new Product object when the 'manager' selects the 'add new product' option.
+4. <i>Encapsulation: Getters & Setters</i>
+- Here getters and setters where used to either retrive specific attributes from a product or to either set a new value to an existing product
+5. <i>GUI: AWT & Swing</i>
+- With the use of JFrames, JTables and JPanels the user could interact with the system on a GUI
+
