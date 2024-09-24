@@ -7,6 +7,7 @@ As part this modules coursework I was tasked in creating a shopping manager prog
 - [About](#About)
 - [Functions](#Functions)
 - [Concepts I learnt & how they were used](#Concepts-I-learnt-&-how-they-were-used)
+- [Example Images](#Example-Images)
 
 ### Functions
 The program had seperate frunctions for the manager and customer.
@@ -37,4 +38,29 @@ The program had seperate frunctions for the manager and customer.
 - With the use of JFrames, JTables and JPanels the user could interact with the system on a GUI.
 6. <i>Input Validation</i>
 - Using do while loops and functions such as '.hasnextint' to insure the user can only input integers within a range.
+
+### Example Images
+<i>Manager Console Menu</i><br>
+<img width="295" alt="Screenshot 2024-09-24 at 16 41 28" src="https://github.com/user-attachments/assets/d8827a60-ba7a-4e09-9f65-d8b2c701fa7f">
+
+<i>Adding a new product</i><br>
+<img width="309" alt="Screenshot 2024-09-24 at 16 43 29" src="https://github.com/user-attachments/assets/d9033eac-d869-4c47-a1b7-e9c82db52907">
+<img width="310" alt="Screenshot 2024-09-24 at 16 44 47" src="https://github.com/user-attachments/assets/6bd87574-1573-4bad-a78d-d07a20edc76b">
+
+<i>Print list of products</i><br>
+<img width="1078" alt="Screenshot 2024-09-24 at 16 46 34" src="https://github.com/user-attachments/assets/6b78eda2-73fd-4d3d-9489-24e480e89811">
+
+<i>GUI: View products</i><br>
+<img width="1008" alt="Screenshot 2024-09-24 at 16 47 50" src="https://github.com/user-attachments/assets/b4f52bbc-84ff-4b96-b2f1-164d5e62a4f6">
+
+<i>Select Product Type</i><br>
+<img width="1011" alt="Screenshot 2024-09-24 at 16 49 21" src="https://github.com/user-attachments/assets/5bdc9fe0-00b3-4328-ae1b-58ddec72cc18">
+<img width="1014" alt="Screenshot 2024-09-24 at 16 50 01" src="https://github.com/user-attachments/assets/9f298755-260d-4cdc-8c0f-f1a304328e37">
+
+<i>View Selected Product Details</i><br>
+<img width="1011" alt="Screenshot 2024-09-24 at 16 50 41" src="https://github.com/user-attachments/assets/f2f16b85-dee0-4937-9076-7c1351c53eac">
+
+<i>Shopping Cart</i><br>
+<img width="407" alt="Screenshot 2024-09-24 at 16 51 18" src="https://github.com/user-attachments/assets/fd1611f4-5f08-47e4-9467-353cbae1dedf">
+
 
